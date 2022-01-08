@@ -121,7 +121,7 @@ for (Element headline : newsHeadlines) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/59/img/fizz-gateway-community.png' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[sa-token](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/sa-token)：一个轻量级 Java 权限认证框架。它上手简单易于扩展，可以快速解决：登录认证、权限认证、Session 会话等一系列权限相关问题。示例代码：
+13、[Sa-Token](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dromara/Sa-Token)：一个轻量级 Java 权限认证框架。它上手简单易于扩展，可以快速解决：登录认证、权限认证、Session 会话等一系列权限相关问题。示例代码：
 ```java
 // 在登录时写入当前会话的账号 ID 
 StpUtil.setLoginId(10001);	
@@ -141,7 +141,7 @@ StpUtil.switchTo(10044);                // 将当前会话身份临时切换为�
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### JavaScript 项目
-14、[mitojs](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clouDr-f2e/mitojs)：收集页面上的用户行为和报错信息的轻量级前端库。我问了下项目维护者，信息展示平台和后端服务还未开源，还需要等公司定开源协议。那就先看下前端的功能吧：
+14、[monitor](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/clouDr-f2e/monitor)：收集页面上的用户行为和报错信息的轻量级前端库。我问了下项目维护者，信息展示平台和后端服务还未开源，还需要等公司定开源协议。那就先看下前端的功能吧：
 - 请求错误和代码报错上传
 - 收集用户点击、跳转行为
 - 支持 React、Vue、微信小程序
@@ -342,7 +342,7 @@ try db.run(users.create { t in
 
 ---
 <p align="center">
-    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/59/'>这里</a> 获取更好的阅读体验。

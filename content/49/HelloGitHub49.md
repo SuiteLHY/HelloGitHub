@@ -104,7 +104,7 @@
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/img/gitstalk.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[refined-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/sindresorhus/refined-github)：一款 GitHub 的浏览器插件，支持 Chrome 和 Firefox。这款插件给 GitHub 增加了非常多强大的功能，比如一键合并冲突修复、等待 check 成功后合并 PR、在代码中链接到 Issue/PR 和 url 等，在 README 中有详细的功能列表，可以时常学习一下提高你的生产力
+15、[refined-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/refined-github/refined-github)：一款 GitHub 的浏览器插件，支持 Chrome 和 Firefox。这款插件给 GitHub 增加了非常多强大的功能，比如一键合并冲突修复、等待 check 成功后合并 PR、在代码中链接到 Issue/PR 和 url 等，在 README 中有详细的功能列表，可以时常学习一下提高你的生产力
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/49/img/refined-github.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -212,7 +212,7 @@ let _ = "19 Nov 2015 22:20:40 +0100".toRSS(alt: true)
 
 ---
 <p align="center">
-    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/49/'>这里</a> 获取更好的阅读体验。

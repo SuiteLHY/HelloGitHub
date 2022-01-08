@@ -17,7 +17,6 @@
 - [Ruby 项目](#Ruby-项目)
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
-- [教程](#教程)
 - [机器学习](#机器学习)
 
 
@@ -41,7 +40,7 @@
 ### Go 项目
 2、[golang-developer-roadmap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Alikhll/golang-developer-roadmap)：成为 Go 开发者的学习路线图，[中文版](https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ReadMe-zh-CN.md)
 
-3、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hsxhr-10/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
+3、[scheduler](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/prprprus/scheduler)：Go 语言实现的作业调度工具包。适用于需要任务调度的场景，能够让初学者学到 time、reflect 等标准库的用法，[中文文档](https://github.com/prprprus/scheduler/blob/master/README-zh.md)
 
 4、[nic](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/EddieIvan01/nic)：一个易用的 HTTP Request 包。它封装了 Go 的 HTTP 标准库，提供了简洁优雅的 API。可以更轻松的发送HTTP 请求，解决了 Go 标准库自定义 HTTP 请求，操作 headers、cookies 时繁琐的步骤。类似于 Python 的 Requests 和 urllib 的区别。示例代码：
 ```go
@@ -218,27 +217,24 @@ Modified var:.. number = 3
 
 26、[weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/aliyunfe/weekly)：《阿里云前端技术周刊》
 
-27、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
+27、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
 
-28、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
+28、[algo](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/wangzheng0822/algo)：必知必会的数据结构和算法代码答案（多种编程语言）
+
+29、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
+
+<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/3d-game-shaders-for-beginners.gif' style="max-width:80%; max-height=80%;"></img></p>
+
+30、[vim-bootstrap](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/editor-bootstrap/vim-bootstrap)：一个简单、易用的 `.vimrc` 配置文件生成工具，也可通过[网站](https://vim-bootstrap.com/)点选生成。支持 Vim、NeoVim、NeoVim-Qt、MacVim 和 GVim。特点：
 - 轻量：包含少且必要的插件
 - 易用：适合在vim中成功存活的入门者
 - 易于定制：只需选择使用的语言,即可获得对应配置
 - 先进的插件管理器：使用 Vim-Plug 管理插件，简单易用、速度快
 - 支持多种编程语言
 
-29、[hacker-laws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
+31、[hacker-laws](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dwmkerr/hacker-laws)：程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/hacker-laws.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
-### 教程
-30、[vscode-extension-samples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/microsoft/vscode-extension-samples)：官方 VS Code 开发扩展插件的代码实例集合
-
-31、[3d-game-shaders-for-beginners](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/lettier/3d-game-shaders-for-beginners)：有关如何为 3D 游戏实施 SSAO、景深、照明、法线贴图等效果的教程。包含示例代码（C++）与 Demo，更便于理解和学习
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/38/img/3d-game-shaders-for-beginners.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -283,7 +279,7 @@ class IrisClassifier(BentoService):
 
 ---
 <p align="center">
-    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/38/'>这里</a> 获取更好的阅读体验。

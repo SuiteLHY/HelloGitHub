@@ -31,7 +31,7 @@
 > **以下为本期内容**｜每个月 **28** 号更新
 
 ### C 项目
-1、[DungeonRush](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Rapiz1/DungeonRush)：元气贪吃蛇游戏。作者受到元气骑士的启发，基于贪吃蛇进行一些玩法上的创新。该项目适用于 C 语言初学者、第一次尝试使用跨平台图形库的同学，参考本项目就可以写出一个可玩性高的游戏，收获满满成就感
+1、[DungeonRush](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rapiz1/DungeonRush)：元气贪吃蛇游戏。作者受到元气骑士的启发，基于贪吃蛇进行一些玩法上的创新。该项目适用于 C 语言初学者、第一次尝试使用跨平台图形库的同学，参考本项目就可以写出一个可玩性高的游戏，收获满满成就感
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/img/DungeonRush.gif' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -69,7 +69,7 @@ myscan -p 21,22,23,80,443,8080 -t 256 192.168.1.1 192.168.1.254
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-4、[contour](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/christianparpart/contour)：一个使用 C++ 17 开发的终端模拟器。可在 Windows、Linux 和 MacOS 三大平台使用，支持字体连字 Font Ligatures（例如 Fira Code 字体）、GPU 加速渲染、背景模糊（Win10、KDE）、256 色、True Color 和配色主题
+4、[contour](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/contour-terminal/contour)：一个使用 C++ 17 开发的终端模拟器。可在 Windows、Linux 和 MacOS 三大平台使用，支持字体连字 Font Ligatures（例如 Fira Code 字体）、GPU 加速渲染、背景模糊（Win10、KDE）、256 色、True Color 和配色主题
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/48/img/contour.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -236,7 +236,7 @@ results = clf.predict(x_test)
 
 ---
 <p align="center">
-    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/48/'>这里</a> 获取更好的阅读体验。

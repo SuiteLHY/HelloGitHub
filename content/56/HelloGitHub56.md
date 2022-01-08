@@ -16,7 +16,6 @@
 - [Java 项目](#Java-项目)
 - [JavaScript 项目](#JavaScript-项目)
 - [Objective-C 项目](#Objective-C-项目)
-- [PHP 项目](#PHP-项目)
 - [Python 项目](#Python-项目)
 - [Swift 项目](#Swift-项目)
 - [其它](#其它)
@@ -118,7 +117,7 @@ curl 127.0.0.1:1412/Example/Echo -H 'Content-Type: application/json' -d '{messag
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Go 项目
-7、[inlets](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/inlets/inlets)：基于 Go 实现的免费内网穿透服务，即将本地服务暴露到公网。如果觉得之前的内网穿透工具不好用、还贵的话，可以试试这个项目，[使用说明](https://github.com/inlets/inlets/blob/master/README_CN.md#%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8)
+7、[inlets-archived](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/inlets/inlets-archived)：基于 Go 实现的免费内网穿透服务，即将本地服务暴露到公网。如果觉得之前的内网穿透工具不好用、还贵的话，可以试试这个项目，[使用说明](https://github.com/inlets/inlets/blob/master/README_CN.md#%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/inlets.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -130,7 +129,7 @@ curl 127.0.0.1:1412/Example/Echo -H 'Content-Type: application/json' -d '{messag
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/lazykube.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-10、[go-zero](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tal-tech/go-zero)：一个可靠的 Go 语言 Web 和 RPC 框架。就算是 Go 新手基于该框架，也可以快速写出高性能可扩展的微服务。示例代码：
+10、[go-zero](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/zeromicro/go-zero)：一个可靠的 Go 语言 Web 和 RPC 框架。就算是 Go 新手基于该框架，也可以快速写出高性能可扩展的微服务。示例代码：
 ```go
 func main() {
   flag.Parse()
@@ -181,7 +180,7 @@ func main() {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/screenity.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-16、[vue-luck-draw](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LuckDraw/vue-luck-draw)：一个基于 Vue 的大转盘/九宫格抽奖插件。[在线尝试](https://100px.net/demo/wheel/ymc.html)，特性：
+16、[lucky-canvas](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/LuckDraw/lucky-canvas)：一个基于 Vue 的大转盘/九宫格抽奖插件。[在线尝试](https://100px.net/demo/wheel/ymc.html)，特性：
 - 可自由配置奖品、中奖概率等
 - 支持同步、异步式抽奖
 - 适配移动端
@@ -259,15 +258,8 @@ playSong(song) {
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
-### PHP 项目
-19、[freenom](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/luolongfei/freenom)：自动续期 Freenom 免费域名的工具。Freenom 是一个提供免费顶级域名的商家，不过申请的域名需要每年定时续期，否则会被回收。有了这个项目，白 piao 顶级域名就是那么简单
-
-<p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/freenom.png' style="max-width:80%; max-height=80%;"></img></p>
-
-<p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
-
 ### Python 项目
-20、[running_page](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yihong0618/running_page)：一个展示个人跑步主页的 Python 项目。特性：
+19、[running_page](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yihong0618/running_page)：一个展示个人跑步主页的 Python 项目。特性：
 - GitHub Actions 管理自动同步跑步进程及自动生成新的页面
 - Gatsby 生成的静态网页，速度快
 - Mapbox 进行地图展示
@@ -276,7 +268,7 @@ playSong(song) {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/running_page.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-21、[gopup](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justinzm/gopup)：采集各种权威公开数据的 Python 库。示例代码：
+20、[gopup](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/justinzm/gopup)：采集各种权威公开数据的 Python 库。示例代码：
 ```python
 # 安装：pip isntall gopup 
 
@@ -287,7 +279,7 @@ print(covid_baidu_df)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/gopup.png' style="max-width:80%; max-height=80%;"></img></p>
 
-22、[flask-state](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yoobool/flask-state)：一款轻便的机器状态监控 Flask 插件。示例代码：
+21、[flask-state](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/yoobool/flask-state)：一款轻便的机器状态监控 Flask 插件。示例代码：
 ```
 flask_state.init_app(app)
 // npm
@@ -300,7 +292,7 @@ init({dom:document.getElementById('test')});
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/flask-state.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[python-cheatsheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gto76/python-cheatsheet)：全面且实用的 Python 备忘录。这个东西特别适合我这个上了年纪的人，比如：忘记怎么用 Python 写正则、要搞个进度条忘记库的名字和基本用法、用 pandas 处理数据忘记方法需要的参数等等。正当我觉得自己需要“回炉重学”的时候发现了这个项目，有了它上面的问题都可以找到拿来即用的代码片段。我又是那个快乐的 Pythoneer 了，示例代码：
+22、[python-cheatsheet](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gto76/python-cheatsheet)：全面且实用的 Python 备忘录。这个东西特别适合我这个上了年纪的人，比如：忘记怎么用 Python 写正则、要搞个进度条忘记库的名字和基本用法、用 pandas 处理数据忘记方法需要的参数等等。正当我觉得自己需要“回炉重学”的时候发现了这个项目，有了它上面的问题都可以找到拿来即用的代码片段。我又是那个快乐的 Pythoneer 了，示例代码：
 ```python
 # $ pip3 install tqdm
 >>> from tqdm import tqdm
@@ -313,39 +305,39 @@ Processing: 100%|████████████████████| 3
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Swift 项目
-24、[eul](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gao-sun/eul)：一款极简免费的 macOS 状态监控工具。我就在用，强烈推荐给你
+23、[eul](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gao-sun/eul)：一款极简免费的 macOS 状态监控工具。我就在用，强烈推荐给你
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/eul.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 其它
-25、[winapps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Fmstrat/winapps)：一个让你在 Linux (Ubuntu/Fedora) 系统里使用 Windows 办公软件的项目。支持 Microsoft Excel、Word、PowerPoint、Adobe Photoshop 等
+24、[winapps](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Fmstrat/winapps)：一个让你在 Linux (Ubuntu/Fedora) 系统里使用 Windows 办公软件的项目。支持 Microsoft Excel、Word、PowerPoint、Adobe Photoshop 等
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/winapps.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[Front-End-Interview-Notebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CavsZhouyou/Front-End-Interview-Notebook)：一份非拼凑、优秀的前端面试复习笔记。以提问方式发出问题，并给出了作者的答案，内容涵盖：HTML、CSS、JS、算法、计算机网络等方面。作者拿到了很多大厂 offer，然后把这些东西总结整理下来送给准备面试、换工作的前端小伙伴
+25、[Front-End-Interview-Notebook](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CavsZhouyou/Front-End-Interview-Notebook)：一份非拼凑、优秀的前端面试复习笔记。以提问方式发出问题，并给出了作者的答案，内容涵盖：HTML、CSS、JS、算法、计算机网络等方面。作者拿到了很多大厂 offer，然后把这些东西总结整理下来送给准备面试、换工作的前端小伙伴
 
-27、[pi-hole](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pi-hole/pi-hole)：一个免费开源、部署简单的 DNS sinkhole 项目。没关系，我也不明白 DNS sinkhole 是个啥，就知道用它可实现路由器层屏蔽广告的功能。需要先在树莓派安装这个项目，然后配合支持自定义 DNS 的路由器，就可以实现该网络下的全设备广告自动屏蔽。[详细步骤](https://sspai.com/post/58183)
+26、[pi-hole](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pi-hole/pi-hole)：一个免费开源、部署简单的 DNS sinkhole 项目。没关系，我也不明白 DNS sinkhole 是个啥，就知道用它可实现路由器层屏蔽广告的功能。需要先在树莓派安装这个项目，然后配合支持自定义 DNS 的路由器，就可以实现该网络下的全设备广告自动屏蔽。[详细步骤](https://sspai.com/post/58183)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/pi-hole.png' style="max-width:80%; max-height=80%;"></img></p>
 
-28、[CopyTranslator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CopyTranslator/CopyTranslator)：支持网页和 PDF 的划词翻译工具。有了它就可以解决阅读 PDF 文件时，要翻译大段内容情况下的乱码、换行、翻译不准的问题
+27、[CopyTranslator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/CopyTranslator/CopyTranslator)：支持网页和 PDF 的划词翻译工具。有了它就可以解决阅读 PDF 文件时，要翻译大段内容情况下的乱码、换行、翻译不准的问题
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/CopyTranslator.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[styleguide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/styleguide)：谷歌的代码风格指南。每个大型项目都有自己的代码风格，当代码的风格统一时将更容易被理解。本项目是谷歌项目的代码风格说明，包含：C++、C#、Swift、Python、Java 等语言
+28、[styleguide](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/styleguide)：谷歌的代码风格指南。每个大型项目都有自己的代码风格，当代码的风格统一时将更容易被理解。本项目是谷歌项目的代码风格说明，包含：C++、C#、Swift、Python、Java 等语言
 
-30、[upptime](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/upptime/upptime)：一个免费开源的网站正常运行时间（uptime）监控服务。之所没有任何费用是因为实现方法都是完全基于 GitHub 提供的免费服务，比如：使用 GitHub 的 Action 每隔 5 分钟访问一次目标网站，获取网站最新的状态。然后通过 GitHub Issues 记录和报告异常，最后在 GitHub Pages 上可视化展示网站的运行状态。就很“绿色无公害”，我特别喜欢
+29、[upptime](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/upptime/upptime)：一个免费开源的网站正常运行时间（uptime）监控服务。之所没有任何费用是因为实现方法都是完全基于 GitHub 提供的免费服务，比如：使用 GitHub 的 Action 每隔 5 分钟访问一次目标网站，获取网站最新的状态。然后通过 GitHub Issues 记录和报告异常，最后在 GitHub Pages 上可视化展示网站的运行状态。就很“绿色无公害”，我特别喜欢
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img2/master/hellogithub/56/img/upptime.png' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### 机器学习
-31、[examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pytorch/examples)：关于视觉、本文等方面的 PyTorch 的示例集合。包含：使用 Convnets 的图像分类（MNIST）、生成对抗网络（DCGAN）等
+30、[examples](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/pytorch/examples)：关于视觉、本文等方面的 PyTorch 的示例集合。包含：使用 Convnets 的图像分类（MNIST）、生成对抗网络（DCGAN）等
 
-32、[EasyOCR](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JaidedAI/EasyOCR)：支持多种语言的即用型的 Python OCR 库，包括中文、日文、韩文等。示例代码：
+31、[EasyOCR](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/JaidedAI/EasyOCR)：支持多种语言的即用型的 Python OCR 库，包括中文、日文、韩文等。示例代码：
 ```python
 import easyocr
 reader = easyocr.Reader(['ch_sim','en']) # need to run only once to load model into memory
@@ -361,7 +353,7 @@ result = reader.readtext('chinese.jpg')
  ([[529, 173], [569, 173], [569, 213], [529, 213]], 'E', 0.8405593633651733)]
 ```
 
-33、[DeepLearningProject](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Spandan-Madan/DeepLearningProject)：哈佛大学开源的深度学习教程
+32、[DeepLearningProject](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Spandan-Madan/DeepLearningProject)：哈佛大学开源的深度学习教程
 
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
@@ -373,7 +365,7 @@ result = reader.readtext('chinese.jpg')
 
 ---
 <p align="center">
-    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/56/'>这里</a> 获取更好的阅读体验。

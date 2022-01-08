@@ -69,7 +69,7 @@ Console.WriteLine("prediction: " + prediction.Prediction);
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### C++ 项目
-4、[drogon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/an-tao/drogon)：一款 C++ 的异步非阻塞高性能 Web 框架。功能强大、上手容易，使得用 C++ 语言构建各种类型的高性能 Web 应用，变得更加方便。示例代码：
+4、[drogon](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/drogonframework/drogon)：一款 C++ 的异步非阻塞高性能 Web 框架。功能强大、上手容易，使得用 C++ 语言构建各种类型的高性能 Web 应用，变得更加方便。示例代码：
 ```C++
 #include <drogon/drogon.h>
 using namespace drogon;
@@ -209,7 +209,7 @@ roncoo-pay
 <p align="center"><a href="#目录">🔙 返回目录 🔙</a></p><br>
 
 ### Python 项目
-17、[real-live](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/parzulpan/real-live)：一个网络直播聚合平台，能够观看视频直播、高清电视和收听广播电台等。目前支持 30+ 个视频直播、50+ 个高清电视频道和 70+ 个广播电台，比较全面的 Web 项目，用到的技术栈：
+17、[reallive](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/parzulpan/reallive)：一个网络直播聚合平台，能够观看视频直播、高清电视和收听广播电台等。目前支持 30+ 个视频直播、50+ 个高清电视频道和 70+ 个广播电台，比较全面的 Web 项目，用到的技术栈：
 - 前端/客户端：Qt、Vue、Flutter 等
 - 后端：MySQL、Redis、Kafka/RabbitMQ、Elasticsearch 等
 
@@ -369,7 +369,7 @@ ac.showPhotoLibrary(sender: self)
 
 ---
 <p align="center">
-    👉 <a href='http://gk.link/a/10q2z'>快速上手 Python 的方法</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
+    👉 <a href='https://www.ucloud.cn/site/active/kuaijie.html?invitation_code=C1xF2ECA89A2592'>云主机 4 元/月</a> ｜ <a href='https://github.com/521xueweihan/HelloGitHub/issues/new'>推荐项目</a> 👈<br>
     微信中搜：<strong>HelloGitHub</strong> 关注公众号<br>
     不仅能第一时间收到推送，还有各种回馈粉丝活动<br>
     如果文中的图刷不出来，可以点击 <a href='https://hellogithub.com/periodical/volume/54/'>这里</a> 获取更好的阅读体验。
